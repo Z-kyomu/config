@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/config/static/js/main.154442eb.js",
+    "main.js": "/config/static/js/main.a5f9f9ad.js",
     "static/media/Inter-Italic.woff2": "/config/static/media/Inter-Italic.cb10ffd7684cd9836a05.woff2",
     "static/media/Inter-Regular.woff2": "/config/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "static/media/SofiaProBold-Italic.woff2": "/config/static/media/SofiaProBold-Italic.b46b7b9b27c15663fef4.woff2",
     "static/media/SofiaProBold.woff2": "/config/static/media/SofiaProBold.1d7186488612ac20891f.woff2",
     "index.html": "/config/index.html",
-    "main.154442eb.js.map": "/config/static/js/main.154442eb.js.map"
+    "main.a5f9f9ad.js.map": "/config/static/js/main.a5f9f9ad.js.map"
   },
   "entrypoints": [
-    "static/js/main.154442eb.js"
+    "static/js/main.a5f9f9ad.js"
   ]
 }
